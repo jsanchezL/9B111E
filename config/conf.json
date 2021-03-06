@@ -1,0 +1,24 @@
+{
+    "id": "1",
+    "typePlatform": "shsp",
+    "name": "SharpSpring",
+    "description": "Marketing Automation",
+    "domain": "api.sharpspring.com",
+    "isSecure": true,
+    "credentials": {
+        "accountID": "",
+        "secretKey": ""
+    },
+    "versionAPI": "v1.2",
+    "session_id": "",
+    "current_timestamp": 0,
+    "db": {
+        "host": "127.0.0.1",
+        "port": "27017",
+        "database": ""
+    },
+    "doc": {
+        "filename": "",
+        "sheet": ""
+    }
+}
